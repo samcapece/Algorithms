@@ -1,4 +1,4 @@
-# CSCI 1913: Algorithms and Program Development - Project 1
+# Algorithms and Program Development - Project 1
 
 ## Project Overview
 
