@@ -1,6 +1,6 @@
 # Algorithms and Program Development Projects
 
-This repository hosts projects developed for class. It encompasses a range of projects focusing on advanced algorithms, data structures, and programming techniques. Each project targets specific programming concepts, applying them in real-world scenarios to deepen understanding of computer science fundamentals.
+This repository hosts projects for the algorithms and program development course It encompasses a range of projects focusing on advanced algorithms, data structures, and programming techniques. Each project targets specific programming concepts, applying them in real-world scenarios to deepen understanding of computer science fundamentals.
 
 ## Projects Included
 
