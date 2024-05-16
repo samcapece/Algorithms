@@ -1,4 +1,4 @@
-# CSCI 1913, Spring 2021, Project 1
+# Project 1
 # Student Names:
 # Samuel Capece
 
